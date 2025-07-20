@@ -1,4 +1,4 @@
-# 📦 Daily 1KB Dump
+# Daily 1KB Dump
 
 Her gün sadece 1024 byte’lık bir şey bırak.  
 Kod, yazı, ASCII sanat, mini JSON, şifreli mesaj…  
@@ -6,7 +6,7 @@ Sadece 1KB’lık özgürlük.
 
 ---
 
-## 🚀 Konsept
+## Konsept
 
 **"Sınırlı veri, sınırsız yaratıcılık."**
 
@@ -15,7 +15,7 @@ Bir satır kod, mini hikâye, deneysel şiir ya da byte’a sıkışmış bir fi
 
 ---
 
-## 🖼️ Arayüz
+## Arayüz
 
 - 🎨 Renkli ve eğlenceli piksel temalı tasarım  
 - ✍️ Gerçek zamanlı byte sayacı  
@@ -24,7 +24,7 @@ Bir satır kod, mini hikâye, deneysel şiir ya da byte’a sıkışmış bir fi
 
 ---
 
-## ⚙️ Teknolojiler
+## Teknolojiler
 
 | Katman   | Teknoloji        |
 |----------|------------------|
@@ -34,7 +34,7 @@ Bir satır kod, mini hikâye, deneysel şiir ya da byte’a sıkışmış bir fi
 
 ---
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 daily-onekb-dump/
@@ -52,7 +52,7 @@ daily-onekb-dump/
 
 ---
 
-## 🛠 Kurulum
+## Kurulum
 
 ### 1. Backend
 
@@ -72,7 +72,7 @@ npm run dev
 ```
 Vue uygulaması http://localhost:5173 adresinde açılır.
 
-## ❓ Neden?
+## Neden?
 
 Kısıtlar yaratıcılığı zorlar.  
 1024 byte’la bir şey anlatmak, ifade etmek veya üretmek bir meydan okuma.  
@@ -80,7 +80,7 @@ Ama aynı zamanda keyifli.
 
 ---
 
-## 🧼 Lisans
+## Lisans
 
 MIT License
 
