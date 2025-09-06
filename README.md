@@ -17,10 +17,10 @@ Bir satır kod, mini hikâye, deneysel şiir ya da byte’a sıkışmış bir fi
 
 ## Arayüz
 
-- 🎨 Renkli ve eğlenceli piksel temalı tasarım  
-- ✍️ Gerçek zamanlı byte sayacı  
-- ❌ 1024 byte’ı geçersen gönderemezsin  
-- 📅 Dump’lar günlük olarak saklanır  
+- Renkli ve eğlenceli piksel temalı tasarım  
+- Gerçek zamanlı byte sayacı  
+- 1024 byte’ı geçersen gönderemezsin  
+- Dump’lar günlük olarak saklanır  
 
 ---
 
@@ -63,7 +63,7 @@ node server.js
 ```
 Sunucu http://localhost:3001 adresinde çalışır.
 
-### 2. Backend
+### 2. Frontend
 
 ```bash
 cd frontend
@@ -85,6 +85,3 @@ Ama aynı zamanda keyifli.
 MIT License
 
 ---
-
-> Her gün sadece 1KB.  
-> Ama belki bir evren anlatırsın.
