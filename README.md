@@ -70,4 +70,4 @@ cd frontend
 npm install
 npm run dev
 ```
-Vue uygulaması http://localhost:5173 adresinde açılır.
+Vue uygulaması http://localhost:5173 adresinde açılır
