@@ -77,11 +77,3 @@ Vue uygulaması http://localhost:5173 adresinde açılır.
 Kısıtlar yaratıcılığı zorlar.  
 1024 byte’la bir şey anlatmak, ifade etmek veya üretmek bir meydan okuma.  
 Ama aynı zamanda keyifli.
-
----
-
-## Lisans
-
-MIT License
-
----
