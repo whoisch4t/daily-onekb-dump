@@ -71,9 +71,3 @@ npm install
 npm run dev
 ```
 Vue uygulaması http://localhost:5173 adresinde açılır.
-
-## Neden?
-
-Kısıtlar yaratıcılığı zorlar.  
-1024 byte’la bir şey anlatmak, ifade etmek veya üretmek bir meydan okuma.  
-Ama aynı zamanda keyifli.
